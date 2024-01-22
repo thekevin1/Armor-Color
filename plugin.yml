@@ -1,0 +1,12 @@
+---
+name: ArmorColor
+main: zkevinezzk\armorcolor\Color
+
+version: 1.0.0
+description: /color setcolor <string:color>
+
+api: 5.0.0
+
+permissions:
+  color.command:
+   default: op
